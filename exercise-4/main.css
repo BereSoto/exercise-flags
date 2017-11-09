@@ -1,0 +1,18 @@
+p {
+  color: black;
+  background-color: #F5B532;
+  border: 6px solid white;
+  padding: 10px;
+  margin: auto;
+  width: 25%;
+
+  display: inline;
+}
+
+p.es {
+  color: white;
+  background-color: #2B2B2B;
+  border: 20px solid white;
+  padding: 10px;
+  width: 25%;
+  }

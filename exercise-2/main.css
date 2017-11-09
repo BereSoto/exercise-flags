@@ -1,0 +1,16 @@
+p {
+  color: black;
+  background-color: #F5B532;
+  border: 0px solid white;
+  height: 50px;
+  padding: 0.5em 0em 5em 0.5em;
+  width: 25%;
+}
+
+div p{
+  color: white;
+  background-color: #2B2B2B;
+  border: 0px solid white;
+  padding: 0.5em 0em 5em 0.5em;
+  width: 25%;
+}

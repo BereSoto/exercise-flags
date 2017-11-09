@@ -1,0 +1,13 @@
+p {
+  color: black;
+  background-color: #F5B532;
+  border: 1px solid white;
+  padding: 0.5em 0em 5em 0.5em;
+}
+
+div p{
+  color: white;
+  background-color: #2B2B2B;
+  border: 1px solid white;
+  padding: 0.5em 0em 5em 0.5em;
+}
